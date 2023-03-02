@@ -1,0 +1,7 @@
+{
+    "name": "Name 1 / Name 2",
+    "notes": [
+        { "id": 1, "timestamp": 2400, "text": "A / B" },
+        { "id": 2, "timestamp": 5600, "text": "C" }
+    ]
+}
